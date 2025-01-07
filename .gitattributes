@@ -4,3 +4,7 @@
 /On[[:space:]]Writing[[:space:]]Well[[:space:]](30th[[:space:]]Ed.).pdf filter=lfs diff=lfs merge=lfs -text
 /Schroeder[[:space:]]Introduction[[:space:]]to[[:space:]]Thermal[[:space:]]Physics.pdf filter=lfs diff=lfs merge=lfs -text
 /Taylor[[:space:]]Classical[[:space:]]Mechanics.pdf filter=lfs diff=lfs merge=lfs -text
+/An[[:space:]]Introduction[[:space:]]to[[:space:]]Modern[[:space:]]Astrophysics[[:space:]](2nd[[:space:]]Ed).pdf filter=lfs diff=lfs merge=lfs -text
+/On[[:space:]]Writing[[:space:]]Well[[:space:]](30th[[:space:]]Ed).pdf filter=lfs diff=lfs merge=lfs -text
+/Taylor[[:space:]]Classical[[:space:]]Mechanics[[:space:]](2005[[:space:]]Ed).pdf filter=lfs diff=lfs merge=lfs -text
+/Taylor[[:space:]]Introduction[[:space:]]to[[:space:]]Error[[:space:]]Analyisis[[:space:]](2nd[[:space:]]Ed).pdf filter=lfs diff=lfs merge=lfs -text
